@@ -1,7 +1,9 @@
+/* BODY */
 body {
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
     font-family: sans-serif;
     padding: 20px;
+    opacity: 0.95;
   }
   
   h1 {
@@ -62,6 +64,7 @@ body {
   .flavor, .dessert {
     text-align: left;
     width: 75%;
+    font-weight: bolder;
   }
   
   .price {
